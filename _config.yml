@@ -3,7 +3,7 @@ title: Wessel van Sandwijk
 description: 'My Blog'
 url: 'http://wvsandwijk.github.io'
 baseurl: '/'
-# google_analytics: 'UA-XXXXXX-X'
+google_analytics: 'UA-98334833-2'
 # disqus_shortname: 'your-disqus-name'
 
 author:

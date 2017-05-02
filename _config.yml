@@ -9,10 +9,10 @@ google_analytics: 'UA-98334833-2'
 author:
   name: 'Wessel van Sandwijk'
   email: wessel@vansandwijk.nl
-  # twitter_username: wvsandwijk
-  # facebook_username: wvsandwijk
+  twitter_username: 
+  facebook_username: 
   github_username: wvsandwijk
-  # linkedin_username: wvsandwijk
+  linkedin_username: 
 
 defaults:
   -
